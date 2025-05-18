@@ -8,7 +8,6 @@ from datetime import datetime,timedelta
 from dateutil import parser
 
 import os
-os.environ["OPENAI_API_KEY"] = "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"
 
 global auth_url
 auth_url='https://login.salesforce.com/services/oauth2/token'
