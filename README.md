@@ -90,7 +90,3 @@ Feel free to submit issues or pull requests for improvements.
 ## License
 
 This project is licensed under the MIT License.
-
-## Contact
-
-For any questions or support, contact **[rachazayni1262@agentforce.com](mailto:rachazayni1262@agentforce.com)**.
